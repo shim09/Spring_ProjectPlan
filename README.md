@@ -1,4 +1,4 @@
-# Spriong_ProjectPlan
+# Spring_ProjectPlan
 
 - 작성일 : 2021.12.14
 - 작성자 : 심형철
